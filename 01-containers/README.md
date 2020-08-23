@@ -81,7 +81,7 @@ Instead of building the _toolbox_ container on our own, we will use [`nicolaka/n
 
 6. At this point you can stop the packet capture -- hit `Ctrl-C` in the tcpdump terminal.
 
-7. Open the pcap file in wireshark.
+7. Open the pcap file in wireshark. (Also attached here under `es02-joining-cluster.pcap`).
 
 Packet capture run on my laptop is available her.
 
